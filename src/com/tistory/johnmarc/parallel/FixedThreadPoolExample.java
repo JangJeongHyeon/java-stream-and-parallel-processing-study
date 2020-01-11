@@ -1,4 +1,4 @@
-package com.tistory.johnmarc;
+package com.tistory.johnmarc.parallel;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;
